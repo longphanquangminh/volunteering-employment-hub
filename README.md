@@ -4,6 +4,9 @@ A modern, full-stack Employee Management System built with **Next.js 16**, **Rea
 
 🚀 **Live Demo:** [https://volunteer-employment-hub.vercel.app](https://volunteer-employment-hub.vercel.app)
 
+![Employee Management Dashboard](./public/screenshots/work.png)
+![Deployment Status](./public/screenshots/deploy.png)
+
 ---
 
 ## ✨ Features
